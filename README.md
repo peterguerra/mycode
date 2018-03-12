@@ -1,2 +1,2 @@
 # mycode
-My code repository for school
+My code repository for school work
